@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">To-do List</string>
+    <string name="label_new_task">Criar Tarefa</string>
+    <string name="title">Título</string>
+    <string name="date">Data</string>
+    <string name="hour">Hora</string>
+    <string name="cancel">Cancelar</string>
+    <string name="new_task">Criar Tarefa</string>
+    <string name="new_task_description">New Task</string>
+    <string name="edit_task">Editar</string>
+    <string name="delete_task">Delete</string>
+    <string name="empty_task">Ops! você não possui\nnenhuma tarefa</string>
+</resources>
